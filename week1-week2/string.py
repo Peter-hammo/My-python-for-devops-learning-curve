@@ -1,3 +1,5 @@
+examples are follows:
+
 Concatenation
 str1 = "Hello"
 str2 = "World"
