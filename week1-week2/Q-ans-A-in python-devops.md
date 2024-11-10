@@ -1,6 +1,6 @@
 Describe a real-world example of how you used Python to solve a DevOps challenge.
 
-    Here you can talk about the projects that we did in this series
+    Here you can talk about the this projects
         GitHub Webhooks
         JIRA integration
         File Operations
